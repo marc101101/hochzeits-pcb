@@ -554,6 +554,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Hochzeit\nSandra & Markus\n14.08.2026"
+		(exclude_from_sim no)
+		(at 131.826 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ad2fd719-3749-4827-afe2-3d2a4df519d8")
+	)
 	(junction
 		(at 198.12 92.71)
 		(diameter 0)
@@ -565,6 +575,15 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b11d83e9-e9e8-469f-95de-e136b74746e9")
+	)
+	(bus_entry
+		(at 120.65 91.44)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91a31940-bdbc-4966-b8db-d6c10ed42689")
 	)
 	(wire
 		(pts
